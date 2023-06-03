@@ -8,3 +8,10 @@ Semantic HTML was added to various parts of the provided HTML. Semantic HTML mak
 
 ## Alt Attributes
 Alt attributes are important on images and icons as otherwise screenreaders have to go through the entire link which can be confusing and disorienting. Alt attributes were added to all images. In the case of the icons; there was no particular description that was necessary, as the image was only there for reference to the sections they pertained to, so an empty alt attribute was used so that it would not read through the link and instead explain an image was located there, though it is one for which a description is unnecessary.
+
+## Code Source
+ ```
+ CSS stylesheet is available under /assets/CSS/style.css
+ Images are all located under /assets/images/
+ the HTML is located in /index.html
+ ```
